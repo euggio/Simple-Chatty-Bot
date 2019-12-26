@@ -21,5 +21,5 @@ Introduction to Java - Basic literals - Overview of the basic program - Printing
 
 4/4. At this point, the assistant will be able to check your knowledge and ask multiple choice questions. Add some methods to your code and make the stage even better.
 
-Result will look like:
+Result will look like:<br/>
 <img src="https://stepik.org/media/attachments/lesson/198194/demonstration.gif" alt="Simple Chatty Bot Gif"/> 
