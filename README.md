@@ -45,7 +45,7 @@ Why do we use methods?<br/>
 > 3. To determine the execution time of a program.
 > 4. To interrupt the execution of a program.
 
-> 4<br/>
+4<br/>
 Please, try again.<br/>
 2<br/>
 Congratulations, have a nice day! 
