@@ -40,10 +40,11 @@ Now I will prove to you that I can count to any number you want.<br/>
 3!<br/>
 Let's test your programming knowledge.<br/>
 Why do we use methods?<br/>
-> 1. To repeat a statement multiple times.</li>
-> 2. To decompose a program into several small subroutines.</li>
-> 3. To determine the execution time of a program.</li>
-> 4. To interrupt the execution of a program.</li>
+> 1. To repeat a statement multiple times.
+> 2. To decompose a program into several small subroutines.
+> 3. To determine the execution time of a program.
+> 4. To interrupt the execution of a program.
+
 > 4<br/>
 Please, try again.<br/>
 2<br/>
