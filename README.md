@@ -22,30 +22,4 @@ Introduction to Java - Basic literals - Overview of the basic program - Printing
 4/4. At this point, the assistant will be able to check your knowledge and ask multiple choice questions. Add some methods to your code and make the stage even better.
 
 Result will look like:
-
-> Hello! My name is Aid.<br/>
-I was created in 2018.<br/>
-Please, remind me your name.<br/>
-Max<br/>
-What a great name you have, Max!<br/>
-Let me guess your age.<br/>
-Say me remainders of dividing your age by 3, 5 and 7.<br/>
-1 2 1<br/>
-Your age is 22: that's a good time to start programming!<br/>
-Now I will prove to you that I can count to any number you want.<br/>
-3<br/>
-0!<br/>
-1!<br/>
-2!<br/>
-3!<br/>
-Let's test your programming knowledge.<br/>
-Why do we use methods?<br/>
-> 1. To repeat a statement multiple times.
-> 2. To decompose a program into several small subroutines.
-> 3. To determine the execution time of a program.
-> 4. To interrupt the execution of a program.<br/>
-
-> 4<br/>
-Please, try again.<br/>
-2<br/>
-Congratulations, have a nice day! 
+https://stepik.org/media/attachments/lesson/198194/demonstration.gif
