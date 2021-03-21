@@ -1,6 +1,5 @@
 # Simple-Chatty-Bot
-Simple Chatty Bot Application that prompts user for name, date built, and age of a user-defined bot. Project Completed using JetBrains Hyperskill at https://hyperskill.org/projects/31?goal=7
-
+Simple Chatty Bot Application that prompts user for name, date built, and age of a user-defined bot. 
 About:
 Here, at the beginning of your programmer’s path, you will need a console bot that will guide you through the basics of software development. During this journey you will also play some word and number games that you are going to implement by yourself. Pack up and hit the road, my friend!
 
